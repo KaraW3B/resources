@@ -1,0 +1,2 @@
+# resources
+Contains project resources
