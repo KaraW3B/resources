@@ -1,2 +1,2 @@
-# resources
-Contains project resources
+# KaraW3B resources
+Contains project resources likes logos, icons ...
